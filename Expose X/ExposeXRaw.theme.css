@@ -3,6 +3,7 @@
 :root {
     --version: "Expose X v1.0.43";
     --greybackground: #33363B !important;
+    --background-size: cover;
     --accent: rgb(114, 137, 218);
 }
 
