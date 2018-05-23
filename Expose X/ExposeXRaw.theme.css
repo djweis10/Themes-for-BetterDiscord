@@ -3311,7 +3311,7 @@ body:active .popout.popout-right.no-arrow[style*="visibility: visible;"]:not(:ac
     position: relative;
     -webkit-backface-visibility:hidden;
     background: transparent!important;
-    animation: anim-status 400ms cubic-bezier(.4, 0, 0, 1) backwards;
+    animation: anim-status 4000ms cubic-bezier(.4, 0, 0, 1) backwards;
 }
 
 .menu-Sp6bN1.alt-3btY0e .item-1GzJrl {
